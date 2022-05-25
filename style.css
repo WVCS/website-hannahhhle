@@ -1,3 +1,17 @@
-body {
+h1 {
+  color: #9C528B;
+  text-align: center;
+}
 
+body {
+  background-color: lavender;
+  
+}
+
+img {
+  border: solid #9C528B 5px; 
+}
+
+img:hover {
+  width: 110%; 
 }
